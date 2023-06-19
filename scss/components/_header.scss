@@ -1,0 +1,12 @@
+.headerContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: center;
+    background-color: #1e1e1e;
+    z-index: 99;
+}
+.siteTitle {
+    font-size: 32px;
+    color: red;
+}
