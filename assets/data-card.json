@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "House of Carribean",
+      "description": "This is the truly story of the pirates",
+      "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1684824392/cld-sample-5.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Card 2",
+      "description": "This is the description for card 2.",
+      "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1684824392/cld-sample-5.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Card 3",
+      "description": "This is the description for card 3.",
+      "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1684824392/cld-sample-5.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Card 4",
+        "description": "This is the description for card 3.",
+        "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1684824392/cld-sample-5.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Card 5",
+        "description": "This is the description for card 3.",
+        "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1684824392/cld-sample-5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Card 6",
+        "description": "This is the description for card 3.",
+        "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1684824392/cld-sample-5.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Card 7",
+        "description": "This is the description for card 3.",
+        "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1684824392/cld-sample-5.jpg"
+    }
+
+  ]

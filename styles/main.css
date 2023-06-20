@@ -1,0 +1,92 @@
+.headerContainer {
+  display: flex;
+  max-width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1e1e1e;
+  padding: 0px 60px;
+}
+
+.siteTitle {
+  font-size: 32px;
+  color: #FFFFFF;
+}
+
+aside {
+  padding: 20px 60px;
+  max-width: 30%;
+  max-height: 100%;
+  border-right: 0.5px solid gray;
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.navList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navItem {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.link {
+  font-size: 20px;
+  color: #1e1e1e;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: orange;
+}
+
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin-top: 12px;
+  max-width: 80%;
+}
+
+.card {
+  max-width: 100%;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 14px;
+  color: #666;
+}
+
+.cardImage {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+}
+
+body {
+  margin: 0 auto;
+  font-family: Poppins, "sans-serif";
+}/*# sourceMappingURL=main.css.map */
