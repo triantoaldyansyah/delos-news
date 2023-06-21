@@ -11,8 +11,10 @@ export default function Header() {
         <div>
           <SearchBar />
         </div>
-        <div>
-          <h2 className='siteTitle'>This is cart button</h2>
+        <div className='buttonHeaderContainer'>
+          <button className='button-no-border'><img width={30} height={30} src='https://res.cloudinary.com/dnfvpjm1r/image/upload/v1687249773/bag_wm7x7s.png' alt='button cart' /></button>
+          <button className='button-no-border'>Login</button>
+          <button className='button-primary'>Sign Up</button>
         </div>
       </div>
     )

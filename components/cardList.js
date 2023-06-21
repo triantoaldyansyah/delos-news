@@ -6,7 +6,13 @@ const CardList = () => {
   return (
     <div className='cardContainer'>
       {data.map((cardData) => (
-        <Card key={cardData.id} imageUrl={cardData.imageUrl} title={cardData.title} description={cardData.description} />
+        <Card 
+        key={cardData.id} 
+        imageUrl={cardData.imageUrl} 
+        title={cardData.title} 
+        price={cardData.price} 
+        description={cardData.description} 
+        />
       ))}
     </div>
   );

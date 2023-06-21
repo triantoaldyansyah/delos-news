@@ -2,13 +2,17 @@
 @import 'components/header';
 @import 'components/sidebar';
 @import 'components/card';
+@import 'components/color';
+@import 'components/button';
 
 .container {
     display: flex;
     flex-direction: row;
     gap: 60px;
 }
+* {
+    font-family: 'Poppins', serif;
+}
 body {
     margin: 0 auto;
-    font-family: Poppins, 'sans-serif';
 }

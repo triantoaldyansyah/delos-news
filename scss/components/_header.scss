@@ -1,13 +1,21 @@
+@import './color';
+
 .headerContainer {
     display: flex;
     max-width: 100%;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    background-color: #1e1e1e;
     padding: 0px 60px;
+    margin: 0 auto;
+    border-bottom: 1px solid #1f1f1f;
+}
+.buttonHeaderContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
 }
 .siteTitle {
     font-size: 32px;
-    color: #FFFFFF;
+    color: $black;
 }

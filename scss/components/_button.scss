@@ -1,0 +1,39 @@
+@import './color';
+
+.button-primary {
+    padding: 12px;
+    background-color: $gray;
+    color: $white;
+    font-size: 16px;
+    border: transparent;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.button-primary:hover {
+    background-color: $orange;
+    color: $white;
+}
+.button-secondary {
+    padding: 8px;
+    background-color: $gray;
+    color: $white;
+    font-size: 12px;
+    cursor: pointer;
+}
+.button-secondary:hover {
+    background-color: $dark-orange;
+    color: $white;
+}
+.button-no-border {
+    padding: 12px;
+    background-color: transparent;
+    color: $black;
+    font-size: 16px;
+    border: transparent;
+    border-radius: 16px;
+    cursor: pointer;
+}
+.button-no-border:hover {
+    color: $orange;
+    fill: $orange;
+}
