@@ -19,5 +19,7 @@ yarn dev
 2. Deploy in Vercel : 
 https://delos-news-eight.vercel.app/ 
 
-3. Score of Pagespeed Insight : 
-![image](https://github.com/triantoaldyansyah/articles-starter/assets/28468196/77172e52-b20b-45f7-9a6d-b1ee51c2f273)
+3. Score of Pagespeed Insight :
+
+![image](https://github.com/triantoaldyansyah/delos-news/assets/28468196/41fc8f7e-f227-48f0-b1c2-198601933a8d)
+
