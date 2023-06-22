@@ -2,7 +2,7 @@ import React from 'react';
 import styles from '../styles/main.css';
 import Header from '../components/header';
 import Sidebar from '@/components/sidebar';
-import CardList from '@/components/cardList';
+import Product from '@/components/product';
 
 export default function Home() {
   return (
@@ -10,7 +10,7 @@ export default function Home() {
       <Header />
       <div className='container'>
         <Sidebar />
-        <CardList />
+        <Product />
       </div>
     </main>
   )

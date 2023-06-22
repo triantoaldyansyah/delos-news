@@ -1,6 +1,6 @@
 // import React from 'react';
 
-// const Cart = ({ cartItems, removeFromCart, openPopup }) => {
+// const Cart = ({ cartItems, removeFromCart }) => {
 //   return (
 //     <div>
 //       <h2>Cart</h2>
@@ -16,7 +16,6 @@
 //           ))}
 //         </ul>
 //       )}
-//       <button onClick={openPopup}>Open Cart</button>
 //     </div>
 //   );
 // };

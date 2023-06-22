@@ -1,0 +1,52 @@
+[
+  
+  {
+    "id": 1,
+    "title": "House of Carribean",
+    "price": "240.000",
+    "description": "This is the truly story of the pirates",
+    "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1687265522/elena-theodoridou-h0jsVAp3emY-unsplash_onciws.jpg"
+  },
+  {
+    "id": 2,
+    "title": "How to Make Bakso Malang",
+    "price": "150.000",
+    "description": "Step by step to make a delicious Bakso",
+    "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1687265723/cocobols-5vu3kHFNMAg-unsplash_zpgy0f.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Productivity and Stay Positive",
+    "price": "200.000",
+    "description": "Make you more Productive and enjoy your activities",
+    "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1687265943/campaign-creators-OGOWDVLbMSc-unsplash_uk0vnt.jpg"
+  },
+  {
+      "id": 4,
+      "title": "Wood Varnish",
+      "price": "300.000",
+      "description": "Your inspiration about wood was coming",
+      "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1687266153/jeffery-ho-TIN_Lh9-Y7g-unsplash_silyxg.jpg"
+  },
+  {
+      "id": 5,
+      "title": "Vegetarian Boys",
+      "price": "230.000",
+      "description": "Daily of vegetarian boys",
+      "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1687266295/anna-pelzer-IGfIGP5ONV0-unsplash_oqqvlq.jpg"
+  },
+  {
+      "id": 6,
+      "title": "Malang Fashion Week",
+      "price": "100.000",
+      "description": "A hype culture in Malang City Street",
+      "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1687266752/alexi-romano-CCx6Fz_CmOI-unsplash_rkodla.jpg"
+  },
+  {
+      "id": 7,
+      "title": "Grindcore Festival Musik",
+      "price": "270.000",
+      "description": "Big moment of the world because this is the firstime",
+      "imageUrl": "https://res.cloudinary.com/dnfvpjm1r/image/upload/v1687266879/dalton-smith-lVEWI7oi5mg-unsplash_ffiljt.jpg"
+  }
+]
